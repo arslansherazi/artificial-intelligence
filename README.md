@@ -29,3 +29,8 @@ both accuracies of training and testing are correct
 #### Generalized model
  1. best fit classification algorithm
  2. classification algorithm which is neither overfit nor underfit 
+ 
+ #### Independent & Dependent Variables
+ Target column is called dependent variable while all other columns are called
+ independent variables
+ 
