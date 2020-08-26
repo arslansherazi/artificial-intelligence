@@ -34,3 +34,7 @@ both accuracies of training and testing are correct
  Target column is called dependent variable while all other columns are called
  independent variables
  
+ #### Ensemble Learning
+ Take multiple ML algorithms and make a new algorithm <br>
+ Example: Random Forest Algorithm
+ 
