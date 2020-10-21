@@ -38,3 +38,7 @@ both accuracies of training and testing are correct
  Take multiple ML algorithms and make a new algorithm <br>
  Example: Random Forest Algorithm
  
+ #### Hyper Parameters
+ Example:
+ In KNN value of K is called hyper parameter which is set by programmer
+ 
