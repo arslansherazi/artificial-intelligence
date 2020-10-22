@@ -1,5 +1,0 @@
-The following libraries should be installed manually.All other required libraries will be installed automatically
-	=>pandas
-	=>matplotlib
-	=>seaborn
-	=>sklearn
