@@ -1,6 +1,6 @@
 """
 This script will remove versions of libraries in requirements.txt and then install latest versions of libraries and
-finally freeze latest versions again in requiremnets.txt
+finally freeze latest versions again in requirements.txt
 """
 import os
 
