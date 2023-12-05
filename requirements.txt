@@ -128,3 +128,4 @@ Werkzeug
 widgetsnbextension
 wrapt
 zipp
+opencv-python
