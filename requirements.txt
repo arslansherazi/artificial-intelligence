@@ -129,3 +129,6 @@ widgetsnbextension
 wrapt
 zipp
 opencv-python
+torch
+torchvision
+imageio
