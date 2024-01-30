@@ -8,8 +8,6 @@ Updated by: Takuya Mouri and me
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-# from torch.autograd import Variable
-# from layers import *
 from layers.functions.detection import Detect
 from layers.functions.prior_box import PriorBox
 from layers.modules.l2norm import L2Norm
