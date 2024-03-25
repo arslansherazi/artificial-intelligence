@@ -100,7 +100,6 @@ scipy
 seaborn
 Send2Trash
 six
-sklearn
 sniffio
 soupsieve
 stack-data
@@ -132,3 +131,5 @@ opencv-python
 torch
 torchvision
 imageio
+langchain
+openai
