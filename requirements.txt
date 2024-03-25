@@ -133,3 +133,4 @@ torchvision
 imageio
 langchain
 openai
+python-dotenv
